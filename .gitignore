@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Data files
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Mac OS
+.DS_Store
