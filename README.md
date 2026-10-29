@@ -16,7 +16,7 @@ The goal: intersection analysis in India still ends as static PDFs and Excel she
 Click either dashboard to explore it directly in your browser.
 
 ### 1. Scenario Comparison Dashboard
-[Open Live Dashboard](https://YOUR_USERNAME.github.io/spatial-traffic-intersection-analytics/outputs/scenario_traffic_dashboard.html)
+[Open Live Dashboard](https://srivastavnilesh.github.io/spatial-traffic-intersection-analytics/outputs/scenario_traffic_dashboard.html)
 
 - **Question answered:** Which time-of-day scenario is worst, and exactly where?
 - **How it was built:** Three toggleable layer groups (Morning Peak 09:00, Midday 14:00, Evening Peak 19:00) over the real OSMnx street network. Every road segment carries a rich popup with hourly volume, congestion index, and Level of Service. Pedestrian conflict zones stay visible as a permanent overlay.
@@ -25,7 +25,7 @@ Click either dashboard to explore it directly in your browser.
 ![Scenario Comparison Dashboard](asset/traffic_scenerio_dashboard.png)
 
 ### 2. Intersection Digital Twin (Flagship Deliverable)
-[Open Live Dashboard](https://YOUR_USERNAME.github.io/spatial-traffic-intersection-analytics/outputs/intersection_digital_twin.html)
+[Open Live Dashboard](https://srivastavnilesh.github.io/spatial-traffic-intersection-analytics/outputs/intersection_digital_twin.html)
 
 - **Question answered:** What are the engineering design parameters for each approach leg?
 - **How it was built:** Approach-level geometric model combined with Highway Capacity Manual style metrics: Level of Service (A to F), Volume-to-Capacity ratio, Peak Hour Factor, and Turning Movement Counts per approach.
