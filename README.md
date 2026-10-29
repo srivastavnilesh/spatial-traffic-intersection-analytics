@@ -31,7 +31,7 @@ Click either dashboard to explore it directly in your browser.
 - **How it was built:** Approach-level geometric model combined with Highway Capacity Manual style metrics: Level of Service (A to F), Volume-to-Capacity ratio, Peak Hour Factor, and Turning Movement Counts per approach.
 - **What it helps with:** Real design decisions. In the synthetic run, Eastbound approaches operate at LOS F (V/C 1.11) during peak hour while Westbound flows freely at LOS A (V/C 0.39). That single contrast justifies a dedicated turn lane or signal retiming.
 
-![Intersection Digital Twin](asset/digital_twin.png)
+![Intersection Digital Twin](asset/Digital_twin.png)
 
 ## How the Two Fit Together
 
